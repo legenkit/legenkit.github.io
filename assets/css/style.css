@@ -410,7 +410,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -555,7 +555,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(4, 0, 0, 0.559);
   position: absolute;
   left: 0;
   right: 0;
@@ -588,7 +588,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: rgba(219, 174, 26, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
